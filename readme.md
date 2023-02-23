@@ -1,17 +1,11 @@
-<h1 align="center">Hi 👋, I'm Faxe</h1>
-<h3 align="center">A random dude from Denmark</h3>
-
+<h1 align="center">Faxe</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faxe2&label=Profile%20views&color=0e75b6&style=flat" alt="faxe2" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faxe2" alt="faxe2" /></a> </p>
 
-- 🔭 I’m currently working on **Steam URL Py API**
 
-- 🌱 I’m currently learning **Flask & improving my Python Skills**
 
 - 📫 How to reach me **faxethedev@gmail.com / Discord: Faxe#4578**
-
-- ⚡ Fun fact **It is physically impossible for pigs to look up into the sky.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
