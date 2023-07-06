@@ -5,7 +5,7 @@
 
 
 
-- 📫 How to reach me **faxethedev@gmail.com / Discord: Faxe#4578**
+- 📫 How to reach me **faxethedev@gmail.com / Discord: faxethedev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
